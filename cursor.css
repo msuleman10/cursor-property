@@ -1,0 +1,169 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-shadow: 3px 3px 5px purple;
+    color: white;
+}
+div{
+    border: 3px solid purple;
+    height: 200px;
+    width: 180px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bolder; 
+}
+.name1{
+    background-color: aquamarine; 
+    cursor: auto;   
+}
+.name2{
+    background-color: blueviolet; 
+    cursor: default;   
+}
+.name3{
+    background-color: blue; 
+    cursor: none;   
+}
+.name4{
+    background-color: royalblue; 
+    cursor: context-menu;   
+}
+.name5{
+    background-color: rebeccapurple; 
+    cursor: help;   
+}
+.name6{
+    background-color: lawngreen; 
+    cursor: pointer;   
+}
+.name7{
+    background-color: aquamarine; 
+    cursor: progress;   
+}
+.name8{
+    background-color: yellowgreen; 
+    cursor: wait;   
+}
+.name9{
+    background-color: lightcoral; 
+    cursor: cell;   
+}
+.name10{
+    background-color: lightcyan; 
+    cursor: crosshair;   
+}
+.name11{
+    background-color:lightgreen; 
+    cursor: text;   
+}
+.name12{
+    background-color: lightpink; 
+    cursor: vertical-text;   
+}
+.name13{
+    background-color: lemonchiffon; 
+    cursor: alias;   
+}
+.name14{
+    background-color: aquamarine; 
+    cursor: copy;   
+}
+.name15{
+    background-color: lightblue; 
+    cursor: move;   
+}
+.name16{
+    background-color: yellow; 
+    cursor: no-drop;   
+}
+.name17{
+    background-color:blanchedalmond; 
+    cursor: not-allowed;   
+}
+.name18{
+    background-color:burlywood; 
+    cursor: e-resize;   
+}
+.name19{
+    background-color: grey; 
+    cursor: n-resize;   
+}
+.name20{
+    background-color: aquamarine; 
+    cursor: ne-resize;   
+}
+.name21{
+    background-color: palevioletred; 
+    cursor: nw-resize;   
+}
+.name22{
+    background-color: powderblue; 
+    cursor: s-resize;   
+}
+.name23{
+    background-color: tan; 
+    cursor: se-resize;   
+}
+.name24{
+    background-color: navajowhite; 
+    cursor: sw-resize;   
+}
+.name25{
+    background-color: khaki; 
+    cursor: w-resize;   
+}
+.name26{
+    background-color: aquamarine; 
+    cursor: ew-resize;   
+}
+.name27{
+    background-color: hotpink; 
+    cursor: ns-resize;   
+}
+.name28{
+    background-color: yellow; 
+    cursor: nesw-resize;   
+}
+.name29{
+    background-color: lightgreen; 
+    cursor: nwse-resize;   
+}
+.name30{
+    background-color:lightgray; 
+    cursor: col-resize;   
+}
+.name31{
+    background-color: lemonchiffon; 
+    cursor: row-resize;   
+}
+.name32{
+    background-color: floralwhite; 
+    cursor:all-scroll;   
+}
+.name33{
+    background-color: thistle; 
+    cursor: zoom-in;   
+}
+.name34{
+    background-color: lightslategray; 
+    cursor: zoom-out;   
+}
+.name35{
+    background-color: lightgreen; 
+    cursor: grab;   
+}
+.name36{
+    background-color:bisque; 
+    cursor: grabbing;   
+}
+    
